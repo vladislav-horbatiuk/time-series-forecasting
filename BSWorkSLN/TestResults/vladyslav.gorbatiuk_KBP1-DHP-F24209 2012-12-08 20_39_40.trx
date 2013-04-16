@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="16b5ff7f-ad88-4303-a256-da86da987dc0" name="vladyslav.gorbatiuk@KBP1-DHP-F24209 2012-12-08 20:39:40" runUser="SYNAPSE\vladyslav.gorbatiuk" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="7159334a-a785-4a40-af17-d1e4952132f1">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="vladyslav.gorbatiuk_KBP1-DHP-F24209 2012-12-08 20_39_40">
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\DataVisualization.dll" />
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\TimeSeriesForecasting\bin\Debug\TimeSeriesForecasting.dll" />
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObjectsSupply\DataObjectsSupply\bin\Debug\DataObjectsSupply.dll" />
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\BSRepository\bin\Debug\BSRepository.dll" />
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObject\DataObject\bin\Debug\DataObject.dll" />
+      <DeploymentItem filename="C:\Program Files (x86)\AForge.NET\Framework\Release\AForge.Math.dll" />
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.dll" />
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\packages\Moq.4.0.10827\lib\NET40\Moq.dll" />
+      <DeploymentItem filename="C:\Program Files (x86)\AForge.NET\Framework\Release\AForge.Neuro.dll" />
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\BSManager\bin\Debug\BSManager.dll" />
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\BSComponents\bin\Debug\BSComponents.dll" />
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\VisualizationHandling\bin\Debug\VisualizationHandling.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-12-08T20:39:40.2773655+02:00" queuing="2012-12-08T20:39:42.1924804+02:00" start="2012-12-08T20:39:42.3374891+02:00" finish="2012-12-08T20:39:53.8551802+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="43" executed="43" passed="43" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ReturnsSuccessorsCorrectly" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="6634bd6d-d6d6-93a3-d60a-d76d14393e50">
+      <Execution id="034cf216-5634-4069-a1f2-7b226aa6cc2a" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestSuccessorsForComponentMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ReturnsSuccessorsCorrectly" />
+    </UnitTest>
+    <UnitTest name="ThrowsFileNotFoundException" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testrepository\bin\debug\testrepository.dll" id="439e9ef1-8a87-a82e-9093-73787685d86c">
+      <Execution id="d0ffb962-5b1c-435f-9d82-2f8319fe9345" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestRepository/bin/Debug/TestRepository.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRepository.TestDataObjectFromFileMethod, TestRepository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ThrowsFileNotFoundException" />
+    </UnitTest>
+    <UnitTest name="ThrowsKeyNotFoundException" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="d2f1dd7c-8b39-ee24-bffa-827116cf1716">
+      <Execution id="6f816caf-04cf-4c60-a41d-6d1785a9b088" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestPredecessorsForComponentMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ThrowsKeyNotFoundException" />
+    </UnitTest>
+    <UnitTest name="DeNormalizeGeneralCorrectnessTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testtimeseriesforecasting\bin\debug\testtimeseriesforecasting.dll" id="714cc709-4fc1-c7d4-c5e7-561e8727673d">
+      <Execution id="5f08e999-ac48-4b4c-aba7-f54c9c74975e" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestTimeSeriesForecasting/bin/Debug/TestTimeSeriesForecasting.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestTimeSeriesForecasting.TestDataNormalizer, TestTimeSeriesForecasting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DeNormalizeGeneralCorrectnessTest" />
+    </UnitTest>
+    <UnitTest name="DataObjectConstructorTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\dataobject\testdataobject\bin\debug\testdataobject.dll" id="f99d417c-f78f-9832-fd6a-5cf102fe28c7">
+      <Execution id="d9c2adcd-7a1d-4297-8c2f-0544d3cca0d1" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataObject/TestDataObject/bin/Debug/TestDataObject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestDataObject.DataObjectTest, TestDataObject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DataObjectConstructorTest" />
+    </UnitTest>
+    <UnitTest name="GeneralCorrectnessTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testtimeseriesforecasting\bin\debug\testtimeseriesforecasting.dll" id="ecb9b643-bcda-dab7-25a3-1d531a237234">
+      <Execution id="2275970c-c575-4192-b9cf-b292f3eb561b" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestTimeSeriesForecasting/bin/Debug/TestTimeSeriesForecasting.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestTimeSeriesForecasting.TestDataNormalizer, TestTimeSeriesForecasting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GeneralCorrectnessTest" />
+    </UnitTest>
+    <UnitTest name="WorksCorrectlyIfComponentExists" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="ae43ffa7-6f12-dd48-8cb2-c1113ab62f04">
+      <Execution id="79f85291-cbd8-4e6f-a630-4caf3b2eb621" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestExistsComponentAtPointMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WorksCorrectlyIfComponentExists" />
+    </UnitTest>
+    <UnitTest name="MedianPreprocessorConstructorTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\testmedianprocessor\bin\debug\testmedianprocessor.dll" id="e4c3f4e3-9eeb-063e-cd56-570432f53cee">
+      <Execution id="a1e8f7ea-009a-4314-9552-b2580ec13c46" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/TestMedianProcessor/bin/Debug/TestMedianProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMedianProcessor.MedianPreprocessorTest, TestMedianProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MedianPreprocessorConstructorTest" />
+    </UnitTest>
+    <UnitTest name="ProcessTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\weightedaveragetest\bin\debug\weightedaveragetest.dll" id="7adc5048-9fc6-28b1-020d-2cab5e2848a1">
+      <Execution id="6bdd7dc7-58e3-4eee-8ef4-f931b6be33de" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/WeightedAverageTest/bin/Debug/WeightedAverageTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WeightedAverageTest.WeightedAverageTest, WeightedAverageTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessTest" />
+    </UnitTest>
+    <UnitTest name="AddsPredecessorsSuccessfully" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="77e211d6-689f-6075-dafa-c0e9e873d88e">
+      <Execution id="67581bcb-6027-49cf-b85a-4f773a590c7e" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestAddPredecessorsForComponentMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddsPredecessorsSuccessfully" />
+    </UnitTest>
+    <UnitTest name="WeightedAverageConstructorGeneralTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\weightedaveragetest\bin\debug\weightedaveragetest.dll" id="0a5d8a87-71b3-96f7-9b96-d7eb0f7bc09b">
+      <Execution id="681baeec-fec8-44fb-92de-ccab51ef1cf2" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/WeightedAverageTest/bin/Debug/WeightedAverageTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WeightedAverageTest.WeightedAverageTest, WeightedAverageTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WeightedAverageConstructorGeneralTest" />
+    </UnitTest>
+    <UnitTest name="MedianPreprocessorConstructorWindowSizeOnlyPositiveTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\testmedianprocessor\bin\debug\testmedianprocessor.dll" id="e1b6011b-ed00-b6a9-ca3b-a2ecc7a442f8">
+      <Execution id="c8975286-6b64-46e2-ad57-444f3b8f64c9" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/TestMedianProcessor/bin/Debug/TestMedianProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMedianProcessor.MedianPreprocessorTest, TestMedianProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MedianPreprocessorConstructorWindowSizeOnlyPositiveTest" />
+    </UnitTest>
+    <UnitTest name="ThrowsKeyNotFoundException" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="2386aef6-9eb6-a41d-f1ef-07a4f744d4b5">
+      <Execution id="757fa074-4cfd-4461-be7f-8f1bffbf229f" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestSuccessorsForComponentMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ThrowsKeyNotFoundException" />
+    </UnitTest>
+    <UnitTest name="AddsNewComponentCorrectly" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="287dda4a-d5ba-364d-7fdf-1a25da6443ec">
+      <Execution id="39ba8432-d609-4fbf-94a2-15d3ac1f07a5" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestAddComponentWithNameAndPosition, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddsNewComponentCorrectly" />
+    </UnitTest>
+    <UnitTest name="WeightedAverageConstructorThrowsExceptionTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\weightedaveragetest\bin\debug\weightedaveragetest.dll" id="c1afeb03-2e4d-7ec4-7311-eae06cb26823">
+      <Execution id="4fe074ac-9d9d-4a6e-888b-34e2fa9d825f" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/WeightedAverageTest/bin/Debug/WeightedAverageTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WeightedAverageTest.WeightedAverageTest, WeightedAverageTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WeightedAverageConstructorThrowsExceptionTest" />
+    </UnitTest>
+    <UnitTest name="ThrowsArgumentNullException" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="f1f6b764-199c-eb93-28c5-45e776878a29">
+      <Execution id="1e17eaca-6440-46e2-8d58-0866d8864365" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestAddComponentMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ThrowsArgumentNullException" />
+    </UnitTest>
+    <UnitTest name="ReturnsEmptyList" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="b70fa8fe-1a28-fd41-7501-f5b3ec0ddfb6">
+      <Execution id="7caf9c8c-1116-4989-810b-ae9bf5256934" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestSuccessorsForComponentMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ReturnsEmptyList" />
+    </UnitTest>
+    <UnitTest name="WorksCorrectlyIfNoComponentMatches" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="2bb26128-2f4c-b4db-b328-17ba8e0e6c02">
+      <Execution id="9bb15087-2c30-4e08-880e-7fb1d71fb5dd" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestExistsComponentAtPointMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WorksCorrectlyIfNoComponentMatches" />
+    </UnitTest>
+    <UnitTest name="ProcessTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\testtukey53hpreprocessor\bin\debug\testtukey53hpreprocessor.dll" id="d132dbb6-21c4-eca4-4e92-1ad53fb6b9d5">
+      <Execution id="008c8da5-99bb-49b4-835d-c4c2e3adb1c7" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/TestTukey53HPreprocessor/bin/Debug/TestTukey53HPreprocessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestTukey53HPreprocessor.Tukey53HPreprocessorTest, TestTukey53HPreprocessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessTest" />
+    </UnitTest>
+    <UnitTest name="ProcessTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\testmeanprocessor\bin\debug\testmeanprocessor.dll" id="998fee1e-2376-fa93-e67e-ac5c0c37d915">
+      <Execution id="aa7e4ee1-9de0-4f7a-a66b-2f93030263dd" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/TestMeanProcessor/bin/Debug/TestMeanProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMeanProcessor.MeanPreprocessorTest, TestMeanProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessTest" />
+    </UnitTest>
+    <UnitTest name="ReturnsEmptyList" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="8d29bffa-1c1f-3514-19be-f7c339a8d80a">
+      <Execution id="1b737a8b-efeb-4166-9196-ca115767b487" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestPredecessorsForComponentMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ReturnsEmptyList" />
+    </UnitTest>
+    <UnitTest name="GetBSDataObjectForStreamTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\dataobjectssupply\testdatasupplier\bin\debug\testdatasupplier.dll" id="3c5b0309-a1f9-f2c2-b438-c45b65575fca">
+      <Execution id="18c0c097-7126-4e4e-96a1-5ae83ba88513" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataObjectsSupply/TestDataSupplier/bin/Debug/TestDataSupplier.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestDataSupplier.BSDataObjectSupplierTest, TestDataSupplier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetBSDataObjectForStreamTest" />
+    </UnitTest>
+    <UnitTest name="ReturnsPredecessorsCorrectly" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="767bb09f-9122-5b4d-66a2-f71cc61e4596">
+      <Execution id="cab2dfd2-8b7a-463d-ba32-04f699068cd5" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestPredecessorsForComponentMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ReturnsPredecessorsCorrectly" />
+    </UnitTest>
+    <UnitTest name="ThrowsKeyNotFoundException" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="cc4bf252-30c5-8259-81d1-11d0e5d49a7e">
+      <Execution id="d3ffe445-6b57-461c-adca-81006df9cbb1" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestAddComponentWithNameAndPosition, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ThrowsKeyNotFoundException" />
+    </UnitTest>
+    <UnitTest name="ProcessMedianForEvenWindowSizeTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\testmedianprocessor\bin\debug\testmedianprocessor.dll" id="0f43129b-a67f-8f4b-602b-4316a4b0cbfa">
+      <Execution id="eb79bd63-fc48-4e52-b0d7-dbc89c5ac066" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/TestMedianProcessor/bin/Debug/TestMedianProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMedianProcessor.MedianPreprocessorTest, TestMedianProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessMedianForEvenWindowSizeTest" />
+    </UnitTest>
+    <UnitTest name="ThrowsArgumentNullExceptionForNullArgument" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testrepository\bin\debug\testrepository.dll" id="31e9081f-f269-9f4a-9ddd-d9d4a7348312">
+      <Execution id="f39b79b7-26ef-4af4-a998-bc1d75c0aa33" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestRepository/bin/Debug/TestRepository.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRepository.TestDataObjectFromFileMethod, TestRepository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ThrowsArgumentNullExceptionForNullArgument" />
+    </UnitTest>
+    <UnitTest name="General" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testrepository\bin\debug\testrepository.dll" id="57baecd8-f2b7-9d78-5a55-40480ac493a3">
+      <Execution id="63313da4-c18b-495c-8c5c-e89291bdfb5f" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestRepository/bin/Debug/TestRepository.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRepository.TestDataObjectFromFileMethod, TestRepository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="General" />
+    </UnitTest>
+    <UnitTest name="MeanPreprocessorConstructorTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\testmeanprocessor\bin\debug\testmeanprocessor.dll" id="d6d3d0b6-8f9f-4871-0b45-3e9556e452bd">
+      <Execution id="a997ed22-cf4d-44d8-91eb-1cd90251ea55" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/TestMeanProcessor/bin/Debug/TestMeanProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMeanProcessor.MeanPreprocessorTest, TestMeanProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MeanPreprocessorConstructorTest" />
+    </UnitTest>
+    <UnitTest name="LinksComponentsSuccessfullyIfEverythingIsGood" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="cd0dc327-014e-e0d7-4f97-12b6f09d6f3a">
+      <Execution id="60b42b55-1229-4b65-8566-5a5432eaae11" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestLinkComponentsAtPointsMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LinksComponentsSuccessfullyIfEverythingIsGood" />
+    </UnitTest>
+    <UnitTest name="ThrowsArgumentNullException" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="7a04a3b1-aa99-37f5-711b-4215e2a38353">
+      <Execution id="e1f12420-e405-4315-81e8-aad5d9e6f482" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestAddComponentWithNameAndPosition, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ThrowsArgumentNullException" />
+    </UnitTest>
+    <UnitTest name="WeightedAverageConstructorCalculatesWeightsSumCorrectlyTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\weightedaveragetest\bin\debug\weightedaveragetest.dll" id="0deb66dc-f3dc-fac4-162d-a6780538cbef">
+      <Execution id="1aad3eb6-185e-4658-928f-59f6661a3d59" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/WeightedAverageTest/bin/Debug/WeightedAverageTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WeightedAverageTest.WeightedAverageTest, WeightedAverageTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WeightedAverageConstructorCalculatesWeightsSumCorrectlyTest" />
+    </UnitTest>
+    <UnitTest name="ProcessTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\testmedianprocessor\bin\debug\testmedianprocessor.dll" id="1875a93a-f552-02e5-6f9e-7740719a86d2">
+      <Execution id="6fa3a1fa-c67b-4d75-b6e3-bb895a20d812" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/TestMedianProcessor/bin/Debug/TestMedianProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMedianProcessor.MedianPreprocessorTest, TestMedianProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessTest" />
+    </UnitTest>
+    <UnitTest name="ThrowsArgumentException" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="ea4b6903-0b66-8ac4-269c-13a025c66551">
+      <Execution id="f045caaf-907d-47d2-976a-88d81a9b311c" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestAddSuccessorForComponentMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ThrowsArgumentException" />
+    </UnitTest>
+    <UnitTest name="ProcessTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\fourierpreprocessor\bin\debug\fourierpreprocessor.dll" id="d9769cdc-f8a5-63ad-d384-6bca4bf5b519">
+      <Execution id="55cc3db0-772c-41e6-8800-a8e2a97c2bfe" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/FourierPreprocessor/bin/Debug/FourierPreprocessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestFourierPreprocessor.FourierPreprocessorTest, FourierPreprocessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessTest" />
+    </UnitTest>
+    <UnitTest name="AddsNewComponentSuccessfully" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="f5c49dd7-5c11-ba57-d456-2238bd64584d">
+      <Execution id="e761c061-1828-45fa-b374-92ed5980e563" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestAddComponentMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddsNewComponentSuccessfully" />
+    </UnitTest>
+    <UnitTest name="ThrowsComponentsCantBeLinkedExceptionIfComponentsAreOfIncorrectType" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="53d2e57f-3026-8931-7e68-12c97cc465b8">
+      <Execution id="de10f24b-c2f1-4a42-b0dc-28a724c03ea5" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestLinkComponentsAtPointsMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ThrowsComponentsCantBeLinkedExceptionIfComponentsAreOfIncorrectType" />
+    </UnitTest>
+    <UnitTest name="MeanPreprocessorConstructorWindowSizeOnlyPositiveTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\testmeanprocessor\bin\debug\testmeanprocessor.dll" id="cd384c3b-0762-84cc-c9ff-0a1cf45f5179">
+      <Execution id="3dd73c2f-dc5e-403c-9e93-e972fd58c136" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/TestMeanProcessor/bin/Debug/TestMeanProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMeanProcessor.MeanPreprocessorTest, TestMeanProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MeanPreprocessorConstructorWindowSizeOnlyPositiveTest" />
+    </UnitTest>
+    <UnitTest name="ThrowsComponentsCantBeLinkedExceptionIfComponentsHaveBeenLinkedBefore" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="6084581d-c1f9-9504-dba0-54d785a9e1de">
+      <Execution id="597faba7-4ec2-48b6-914b-3bb1a60dceee" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestLinkComponentsAtPointsMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ThrowsComponentsCantBeLinkedExceptionIfComponentsHaveBeenLinkedBefore" />
+    </UnitTest>
+    <UnitTest name="AddsSuccessorSuccessfully" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="4ce2c390-acd6-8b00-b5be-46303b393f74">
+      <Execution id="669aa0ed-a77c-4320-8e76-e0331b89a7d2" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestAddSuccessorForComponentMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddsSuccessorSuccessfully" />
+    </UnitTest>
+    <UnitTest name="ThrowsArgumentException" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\bsworksln\testbsmanager\bin\debug\testbsmanager.dll" id="40c25e11-287e-714f-5855-14e7ed589667">
+      <Execution id="3af5f4dd-cd6b-4c90-aab9-9bfcd25aa8f3" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/BSWorkSLN/TestBSManager/bin/Debug/TestBSManager.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBSManager.TestAddPredecessorsForComponentMethod, TestBSManager, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ThrowsArgumentException" />
+    </UnitTest>
+    <UnitTest name="ProcessUnordinaryWindowSizesTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\testmedianprocessor\bin\debug\testmedianprocessor.dll" id="1fbe4fc4-4125-8ba2-c054-349323ecb993">
+      <Execution id="53d94e2d-8d38-4891-85d7-78a7239785ac" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/TestMedianProcessor/bin/Debug/TestMedianProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMedianProcessor.MedianPreprocessorTest, TestMedianProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessUnordinaryWindowSizesTest" />
+    </UnitTest>
+    <UnitTest name="ProcessUnordinaryWindowSizesTest" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\testmeanprocessor\bin\debug\testmeanprocessor.dll" id="1581adcd-ba83-3a4b-a664-0368187374d1">
+      <Execution id="995bcb46-0ebd-4339-9f9e-1031f71fce98" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/TestMeanProcessor/bin/Debug/TestMeanProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMeanProcessor.MeanPreprocessorTest, TestMeanProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessUnordinaryWindowSizesTest" />
+    </UnitTest>
+    <UnitTest name="RegressionTests" storage="c:\users\vladyslav.gorbatiuk.synapse\dropbox\bs_work\datapreprocessing\testtukey53hpreprocessor\bin\debug\testtukey53hpreprocessor.dll" id="a8ad0b78-a3ab-6d92-b20b-ec2d378fd148">
+      <Execution id="c729089d-8d37-4c0d-a697-9c3c0d4fc364" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Dropbox/BS_Work/DataPreprocessing/TestTukey53HPreprocessor/bin/Debug/TestTukey53HPreprocessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestTukey53HPreprocessor.Tukey53HPreprocessorTest, TestTukey53HPreprocessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RegressionTests" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0a5d8a87-71b3-96f7-9b96-d7eb0f7bc09b" executionId="681baeec-fec8-44fb-92de-ccab51ef1cf2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0deb66dc-f3dc-fac4-162d-a6780538cbef" executionId="1aad3eb6-185e-4658-928f-59f6661a3d59" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0f43129b-a67f-8f4b-602b-4316a4b0cbfa" executionId="eb79bd63-fc48-4e52-b0d7-dbc89c5ac066" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1581adcd-ba83-3a4b-a664-0368187374d1" executionId="995bcb46-0ebd-4339-9f9e-1031f71fce98" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1875a93a-f552-02e5-6f9e-7740719a86d2" executionId="6fa3a1fa-c67b-4d75-b6e3-bb895a20d812" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1fbe4fc4-4125-8ba2-c054-349323ecb993" executionId="53d94e2d-8d38-4891-85d7-78a7239785ac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2386aef6-9eb6-a41d-f1ef-07a4f744d4b5" executionId="757fa074-4cfd-4461-be7f-8f1bffbf229f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="287dda4a-d5ba-364d-7fdf-1a25da6443ec" executionId="39ba8432-d609-4fbf-94a2-15d3ac1f07a5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2bb26128-2f4c-b4db-b328-17ba8e0e6c02" executionId="9bb15087-2c30-4e08-880e-7fb1d71fb5dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31e9081f-f269-9f4a-9ddd-d9d4a7348312" executionId="f39b79b7-26ef-4af4-a998-bc1d75c0aa33" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3c5b0309-a1f9-f2c2-b438-c45b65575fca" executionId="18c0c097-7126-4e4e-96a1-5ae83ba88513" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="40c25e11-287e-714f-5855-14e7ed589667" executionId="3af5f4dd-cd6b-4c90-aab9-9bfcd25aa8f3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="439e9ef1-8a87-a82e-9093-73787685d86c" executionId="d0ffb962-5b1c-435f-9d82-2f8319fe9345" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4ce2c390-acd6-8b00-b5be-46303b393f74" executionId="669aa0ed-a77c-4320-8e76-e0331b89a7d2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="53d2e57f-3026-8931-7e68-12c97cc465b8" executionId="de10f24b-c2f1-4a42-b0dc-28a724c03ea5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57baecd8-f2b7-9d78-5a55-40480ac493a3" executionId="63313da4-c18b-495c-8c5c-e89291bdfb5f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6084581d-c1f9-9504-dba0-54d785a9e1de" executionId="597faba7-4ec2-48b6-914b-3bb1a60dceee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6634bd6d-d6d6-93a3-d60a-d76d14393e50" executionId="034cf216-5634-4069-a1f2-7b226aa6cc2a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="714cc709-4fc1-c7d4-c5e7-561e8727673d" executionId="5f08e999-ac48-4b4c-aba7-f54c9c74975e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="767bb09f-9122-5b4d-66a2-f71cc61e4596" executionId="cab2dfd2-8b7a-463d-ba32-04f699068cd5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="77e211d6-689f-6075-dafa-c0e9e873d88e" executionId="67581bcb-6027-49cf-b85a-4f773a590c7e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7a04a3b1-aa99-37f5-711b-4215e2a38353" executionId="e1f12420-e405-4315-81e8-aad5d9e6f482" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7adc5048-9fc6-28b1-020d-2cab5e2848a1" executionId="6bdd7dc7-58e3-4eee-8ef4-f931b6be33de" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8d29bffa-1c1f-3514-19be-f7c339a8d80a" executionId="1b737a8b-efeb-4166-9196-ca115767b487" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="998fee1e-2376-fa93-e67e-ac5c0c37d915" executionId="aa7e4ee1-9de0-4f7a-a66b-2f93030263dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a8ad0b78-a3ab-6d92-b20b-ec2d378fd148" executionId="c729089d-8d37-4c0d-a697-9c3c0d4fc364" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ae43ffa7-6f12-dd48-8cb2-c1113ab62f04" executionId="79f85291-cbd8-4e6f-a630-4caf3b2eb621" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b70fa8fe-1a28-fd41-7501-f5b3ec0ddfb6" executionId="7caf9c8c-1116-4989-810b-ae9bf5256934" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c1afeb03-2e4d-7ec4-7311-eae06cb26823" executionId="4fe074ac-9d9d-4a6e-888b-34e2fa9d825f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cc4bf252-30c5-8259-81d1-11d0e5d49a7e" executionId="d3ffe445-6b57-461c-adca-81006df9cbb1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cd0dc327-014e-e0d7-4f97-12b6f09d6f3a" executionId="60b42b55-1229-4b65-8566-5a5432eaae11" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cd384c3b-0762-84cc-c9ff-0a1cf45f5179" executionId="3dd73c2f-dc5e-403c-9e93-e972fd58c136" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d132dbb6-21c4-eca4-4e92-1ad53fb6b9d5" executionId="008c8da5-99bb-49b4-835d-c4c2e3adb1c7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d2f1dd7c-8b39-ee24-bffa-827116cf1716" executionId="6f816caf-04cf-4c60-a41d-6d1785a9b088" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d6d3d0b6-8f9f-4871-0b45-3e9556e452bd" executionId="a997ed22-cf4d-44d8-91eb-1cd90251ea55" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d9769cdc-f8a5-63ad-d384-6bca4bf5b519" executionId="55cc3db0-772c-41e6-8800-a8e2a97c2bfe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e1b6011b-ed00-b6a9-ca3b-a2ecc7a442f8" executionId="c8975286-6b64-46e2-ad57-444f3b8f64c9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e4c3f4e3-9eeb-063e-cd56-570432f53cee" executionId="a1e8f7ea-009a-4314-9552-b2580ec13c46" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ea4b6903-0b66-8ac4-269c-13a025c66551" executionId="f045caaf-907d-47d2-976a-88d81a9b311c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ecb9b643-bcda-dab7-25a3-1d531a237234" executionId="2275970c-c575-4192-b9cf-b292f3eb561b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f1f6b764-199c-eb93-28c5-45e776878a29" executionId="1e17eaca-6440-46e2-8d58-0866d8864365" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f5c49dd7-5c11-ba57-d456-2238bd64584d" executionId="e761c061-1828-45fa-b374-92ed5980e563" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f99d417c-f78f-9832-fd6a-5cf102fe28c7" executionId="d9c2adcd-7a1d-4297-8c2f-0544d3cca0d1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="681baeec-fec8-44fb-92de-ccab51ef1cf2" testId="0a5d8a87-71b3-96f7-9b96-d7eb0f7bc09b" testName="WeightedAverageConstructorGeneralTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0383439" startTime="2012-12-08T20:39:42.3824918+02:00" endTime="2012-12-08T20:39:43.5235603+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="681baeec-fec8-44fb-92de-ccab51ef1cf2">
+    </UnitTestResult>
+    <UnitTestResult executionId="1aad3eb6-185e-4658-928f-59f6661a3d59" testId="0deb66dc-f3dc-fac4-162d-a6780538cbef" testName="WeightedAverageConstructorCalculatesWeightsSumCorrectlyTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0006222" startTime="2012-12-08T20:39:43.5335609+02:00" endTime="2012-12-08T20:39:43.5385612+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1aad3eb6-185e-4658-928f-59f6661a3d59">
+    </UnitTestResult>
+    <UnitTestResult executionId="eb79bd63-fc48-4e52-b0d7-dbc89c5ac066" testId="0f43129b-a67f-8f4b-602b-4316a4b0cbfa" testName="ProcessMedianForEvenWindowSizeTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0425453" startTime="2012-12-08T20:39:43.5635627+02:00" endTime="2012-12-08T20:39:44.5786236+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eb79bd63-fc48-4e52-b0d7-dbc89c5ac066">
+    </UnitTestResult>
+    <UnitTestResult executionId="995bcb46-0ebd-4339-9f9e-1031f71fce98" testId="1581adcd-ba83-3a4b-a664-0368187374d1" testName="ProcessUnordinaryWindowSizesTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0528386" startTime="2012-12-08T20:39:44.5886242+02:00" endTime="2012-12-08T20:39:45.5736833+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="995bcb46-0ebd-4339-9f9e-1031f71fce98">
+    </UnitTestResult>
+    <UnitTestResult executionId="6fa3a1fa-c67b-4d75-b6e3-bb895a20d812" testId="1875a93a-f552-02e5-6f9e-7740719a86d2" testName="ProcessTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0003829" startTime="2012-12-08T20:39:45.5836839+02:00" endTime="2012-12-08T20:39:45.5886842+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6fa3a1fa-c67b-4d75-b6e3-bb895a20d812">
+    </UnitTestResult>
+    <UnitTestResult executionId="53d94e2d-8d38-4891-85d7-78a7239785ac" testId="1fbe4fc4-4125-8ba2-c054-349323ecb993" testName="ProcessUnordinaryWindowSizesTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0004933" startTime="2012-12-08T20:39:45.5936845+02:00" endTime="2012-12-08T20:39:45.5986848+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="53d94e2d-8d38-4891-85d7-78a7239785ac">
+    </UnitTestResult>
+    <UnitTestResult executionId="757fa074-4cfd-4461-be7f-8f1bffbf229f" testId="2386aef6-9eb6-a41d-f1ef-07a4f744d4b5" testName="ThrowsKeyNotFoundException" computerName="KBP1-DHP-F24209" duration="00:00:00.2457091" startTime="2012-12-08T20:39:45.6086854+02:00" endTime="2012-12-08T20:39:46.7387532+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="757fa074-4cfd-4461-be7f-8f1bffbf229f">
+    </UnitTestResult>
+    <UnitTestResult executionId="39ba8432-d609-4fbf-94a2-15d3ac1f07a5" testId="287dda4a-d5ba-364d-7fdf-1a25da6443ec" testName="AddsNewComponentCorrectly" computerName="KBP1-DHP-F24209" duration="00:00:00.0178632" startTime="2012-12-08T20:39:46.7537541+02:00" endTime="2012-12-08T20:39:46.7787556+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="39ba8432-d609-4fbf-94a2-15d3ac1f07a5">
+    </UnitTestResult>
+    <UnitTestResult executionId="9bb15087-2c30-4e08-880e-7fb1d71fb5dd" testId="2bb26128-2f4c-b4db-b328-17ba8e0e6c02" testName="WorksCorrectlyIfNoComponentMatches" computerName="KBP1-DHP-F24209" duration="00:00:00.1403238" startTime="2012-12-08T20:39:46.7837559+02:00" endTime="2012-12-08T20:39:46.9337649+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9bb15087-2c30-4e08-880e-7fb1d71fb5dd">
+    </UnitTestResult>
+    <UnitTestResult executionId="f39b79b7-26ef-4af4-a998-bc1d75c0aa33" testId="31e9081f-f269-9f4a-9ddd-d9d4a7348312" testName="ThrowsArgumentNullExceptionForNullArgument" computerName="KBP1-DHP-F24209" duration="00:00:00.0761494" startTime="2012-12-08T20:39:46.9637667+02:00" endTime="2012-12-08T20:39:47.9038231+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f39b79b7-26ef-4af4-a998-bc1d75c0aa33">
+    </UnitTestResult>
+    <UnitTestResult executionId="18c0c097-7126-4e4e-96a1-5ae83ba88513" testId="3c5b0309-a1f9-f2c2-b438-c45b65575fca" testName="GetBSDataObjectForStreamTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0469070" startTime="2012-12-08T20:39:47.9188240+02:00" endTime="2012-12-08T20:39:48.8388792+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="18c0c097-7126-4e4e-96a1-5ae83ba88513">
+    </UnitTestResult>
+    <UnitTestResult executionId="3af5f4dd-cd6b-4c90-aab9-9bfcd25aa8f3" testId="40c25e11-287e-714f-5855-14e7ed589667" testName="ThrowsArgumentException" computerName="KBP1-DHP-F24209" duration="00:00:00.0151454" startTime="2012-12-08T20:39:48.8488798+02:00" endTime="2012-12-08T20:39:48.8688810+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3af5f4dd-cd6b-4c90-aab9-9bfcd25aa8f3">
+    </UnitTestResult>
+    <UnitTestResult executionId="d0ffb962-5b1c-435f-9d82-2f8319fe9345" testId="439e9ef1-8a87-a82e-9093-73787685d86c" testName="ThrowsFileNotFoundException" computerName="KBP1-DHP-F24209" duration="00:00:00.0185997" startTime="2012-12-08T20:39:48.8788816+02:00" endTime="2012-12-08T20:39:48.9038831+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d0ffb962-5b1c-435f-9d82-2f8319fe9345">
+    </UnitTestResult>
+    <UnitTestResult executionId="669aa0ed-a77c-4320-8e76-e0331b89a7d2" testId="4ce2c390-acd6-8b00-b5be-46303b393f74" testName="AddsSuccessorSuccessfully" computerName="KBP1-DHP-F24209" duration="00:00:00.0014540" startTime="2012-12-08T20:39:48.9088834+02:00" endTime="2012-12-08T20:39:48.9188840+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="669aa0ed-a77c-4320-8e76-e0331b89a7d2">
+    </UnitTestResult>
+    <UnitTestResult executionId="de10f24b-c2f1-4a42-b0dc-28a724c03ea5" testId="53d2e57f-3026-8931-7e68-12c97cc465b8" testName="ThrowsComponentsCantBeLinkedExceptionIfComponentsAreOfIncorrectType" computerName="KBP1-DHP-F24209" duration="00:00:00.0594813" startTime="2012-12-08T20:39:48.9238843+02:00" endTime="2012-12-08T20:39:48.9888882+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="de10f24b-c2f1-4a42-b0dc-28a724c03ea5">
+    </UnitTestResult>
+    <UnitTestResult executionId="63313da4-c18b-495c-8c5c-e89291bdfb5f" testId="57baecd8-f2b7-9d78-5a55-40480ac493a3" testName="General" computerName="KBP1-DHP-F24209" duration="00:00:00.0081646" startTime="2012-12-08T20:39:48.9988888+02:00" endTime="2012-12-08T20:39:49.0088894+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="63313da4-c18b-495c-8c5c-e89291bdfb5f">
+    </UnitTestResult>
+    <UnitTestResult executionId="597faba7-4ec2-48b6-914b-3bb1a60dceee" testId="6084581d-c1f9-9504-dba0-54d785a9e1de" testName="ThrowsComponentsCantBeLinkedExceptionIfComponentsHaveBeenLinkedBefore" computerName="KBP1-DHP-F24209" duration="00:00:00.0146723" startTime="2012-12-08T20:39:49.0188900+02:00" endTime="2012-12-08T20:39:49.0388912+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="597faba7-4ec2-48b6-914b-3bb1a60dceee">
+    </UnitTestResult>
+    <UnitTestResult executionId="034cf216-5634-4069-a1f2-7b226aa6cc2a" testId="6634bd6d-d6d6-93a3-d60a-d76d14393e50" testName="ReturnsSuccessorsCorrectly" computerName="KBP1-DHP-F24209" duration="00:00:00.0002957" startTime="2012-12-08T20:39:49.0438915+02:00" endTime="2012-12-08T20:39:49.0488918+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="034cf216-5634-4069-a1f2-7b226aa6cc2a">
+    </UnitTestResult>
+    <UnitTestResult executionId="5f08e999-ac48-4b4c-aba7-f54c9c74975e" testId="714cc709-4fc1-c7d4-c5e7-561e8727673d" testName="DeNormalizeGeneralCorrectnessTest" computerName="KBP1-DHP-F24209" duration="00:00:00.1658270" startTime="2012-12-08T20:39:49.0588924+02:00" endTime="2012-12-08T20:39:50.0889542+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5f08e999-ac48-4b4c-aba7-f54c9c74975e">
+    </UnitTestResult>
+    <UnitTestResult executionId="cab2dfd2-8b7a-463d-ba32-04f699068cd5" testId="767bb09f-9122-5b4d-66a2-f71cc61e4596" testName="ReturnsPredecessorsCorrectly" computerName="KBP1-DHP-F24209" duration="00:00:00.0010482" startTime="2012-12-08T20:39:50.1039551+02:00" endTime="2012-12-08T20:39:50.1089554+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cab2dfd2-8b7a-463d-ba32-04f699068cd5">
+    </UnitTestResult>
+    <UnitTestResult executionId="67581bcb-6027-49cf-b85a-4f773a590c7e" testId="77e211d6-689f-6075-dafa-c0e9e873d88e" testName="AddsPredecessorsSuccessfully" computerName="KBP1-DHP-F24209" duration="00:00:00.0001578" startTime="2012-12-08T20:39:50.1189560+02:00" endTime="2012-12-08T20:39:50.1239563+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="67581bcb-6027-49cf-b85a-4f773a590c7e">
+    </UnitTestResult>
+    <UnitTestResult executionId="e1f12420-e405-4315-81e8-aad5d9e6f482" testId="7a04a3b1-aa99-37f5-711b-4215e2a38353" testName="ThrowsArgumentNullException" computerName="KBP1-DHP-F24209" duration="00:00:00.0163614" startTime="2012-12-08T20:39:50.1289566+02:00" endTime="2012-12-08T20:39:50.1539581+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e1f12420-e405-4315-81e8-aad5d9e6f482">
+    </UnitTestResult>
+    <UnitTestResult executionId="6bdd7dc7-58e3-4eee-8ef4-f931b6be33de" testId="7adc5048-9fc6-28b1-020d-2cab5e2848a1" testName="ProcessTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0208370" startTime="2012-12-08T20:39:50.1589584+02:00" endTime="2012-12-08T20:39:50.1839599+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6bdd7dc7-58e3-4eee-8ef4-f931b6be33de">
+    </UnitTestResult>
+    <UnitTestResult executionId="1b737a8b-efeb-4166-9196-ca115767b487" testId="8d29bffa-1c1f-3514-19be-f7c339a8d80a" testName="ReturnsEmptyList" computerName="KBP1-DHP-F24209" duration="00:00:00.0005401" startTime="2012-12-08T20:39:50.1939605+02:00" endTime="2012-12-08T20:39:50.1989608+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1b737a8b-efeb-4166-9196-ca115767b487">
+    </UnitTestResult>
+    <UnitTestResult executionId="aa7e4ee1-9de0-4f7a-a66b-2f93030263dd" testId="998fee1e-2376-fa93-e67e-ac5c0c37d915" testName="ProcessTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0004028" startTime="2012-12-08T20:39:50.2039611+02:00" endTime="2012-12-08T20:39:50.2089614+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aa7e4ee1-9de0-4f7a-a66b-2f93030263dd">
+    </UnitTestResult>
+    <UnitTestResult executionId="c729089d-8d37-4c0d-a697-9c3c0d4fc364" testId="a8ad0b78-a3ab-6d92-b20b-ec2d378fd148" testName="RegressionTests" computerName="KBP1-DHP-F24209" duration="00:00:00.0501018" startTime="2012-12-08T20:39:50.2189620+02:00" endTime="2012-12-08T20:39:51.1650188+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c729089d-8d37-4c0d-a697-9c3c0d4fc364">
+    </UnitTestResult>
+    <UnitTestResult executionId="79f85291-cbd8-4e6f-a630-4caf3b2eb621" testId="ae43ffa7-6f12-dd48-8cb2-c1113ab62f04" testName="WorksCorrectlyIfComponentExists" computerName="KBP1-DHP-F24209" duration="00:00:00.0002874" startTime="2012-12-08T20:39:51.1750194+02:00" endTime="2012-12-08T20:39:51.1850200+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="79f85291-cbd8-4e6f-a630-4caf3b2eb621">
+    </UnitTestResult>
+    <UnitTestResult executionId="7caf9c8c-1116-4989-810b-ae9bf5256934" testId="b70fa8fe-1a28-fd41-7501-f5b3ec0ddfb6" testName="ReturnsEmptyList" computerName="KBP1-DHP-F24209" duration="00:00:00.0004545" startTime="2012-12-08T20:39:51.1900203+02:00" endTime="2012-12-08T20:39:51.1950206+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7caf9c8c-1116-4989-810b-ae9bf5256934">
+    </UnitTestResult>
+    <UnitTestResult executionId="4fe074ac-9d9d-4a6e-888b-34e2fa9d825f" testId="c1afeb03-2e4d-7ec4-7311-eae06cb26823" testName="WeightedAverageConstructorThrowsExceptionTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0193830" startTime="2012-12-08T20:39:51.2050212+02:00" endTime="2012-12-08T20:39:51.2250224+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4fe074ac-9d9d-4a6e-888b-34e2fa9d825f">
+    </UnitTestResult>
+    <UnitTestResult executionId="d3ffe445-6b57-461c-adca-81006df9cbb1" testId="cc4bf252-30c5-8259-81d1-11d0e5d49a7e" testName="ThrowsKeyNotFoundException" computerName="KBP1-DHP-F24209" duration="00:00:00.0136972" startTime="2012-12-08T20:39:51.2350230+02:00" endTime="2012-12-08T20:39:51.2550242+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d3ffe445-6b57-461c-adca-81006df9cbb1">
+    </UnitTestResult>
+    <UnitTestResult executionId="60b42b55-1229-4b65-8566-5a5432eaae11" testId="cd0dc327-014e-e0d7-4f97-12b6f09d6f3a" testName="LinksComponentsSuccessfullyIfEverythingIsGood" computerName="KBP1-DHP-F24209" duration="00:00:00.0009023" startTime="2012-12-08T20:39:51.2600245+02:00" endTime="2012-12-08T20:39:51.2650248+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="60b42b55-1229-4b65-8566-5a5432eaae11">
+    </UnitTestResult>
+    <UnitTestResult executionId="3dd73c2f-dc5e-403c-9e93-e972fd58c136" testId="cd384c3b-0762-84cc-c9ff-0a1cf45f5179" testName="MeanPreprocessorConstructorWindowSizeOnlyPositiveTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0208014" startTime="2012-12-08T20:39:51.2750254+02:00" endTime="2012-12-08T20:39:51.3000269+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3dd73c2f-dc5e-403c-9e93-e972fd58c136">
+    </UnitTestResult>
+    <UnitTestResult executionId="008c8da5-99bb-49b4-835d-c4c2e3adb1c7" testId="d132dbb6-21c4-eca4-4e92-1ad53fb6b9d5" testName="ProcessTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0007233" startTime="2012-12-08T20:39:51.3050272+02:00" endTime="2012-12-08T20:39:51.3150278+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="008c8da5-99bb-49b4-835d-c4c2e3adb1c7">
+    </UnitTestResult>
+    <UnitTestResult executionId="6f816caf-04cf-4c60-a41d-6d1785a9b088" testId="d2f1dd7c-8b39-ee24-bffa-827116cf1716" testName="ThrowsKeyNotFoundException" computerName="KBP1-DHP-F24209" duration="00:00:00.0149866" startTime="2012-12-08T20:39:51.3200281+02:00" endTime="2012-12-08T20:39:51.3400293+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6f816caf-04cf-4c60-a41d-6d1785a9b088">
+    </UnitTestResult>
+    <UnitTestResult executionId="a997ed22-cf4d-44d8-91eb-1cd90251ea55" testId="d6d3d0b6-8f9f-4871-0b45-3e9556e452bd" testName="MeanPreprocessorConstructorTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0003826" startTime="2012-12-08T20:39:51.3450296+02:00" endTime="2012-12-08T20:39:51.3550302+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a997ed22-cf4d-44d8-91eb-1cd90251ea55">
+    </UnitTestResult>
+    <UnitTestResult executionId="55cc3db0-772c-41e6-8800-a8e2a97c2bfe" testId="d9769cdc-f8a5-63ad-d384-6bca4bf5b519" testName="ProcessTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0875182" startTime="2012-12-08T20:39:51.3600305+02:00" endTime="2012-12-08T20:39:52.3200881+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="55cc3db0-772c-41e6-8800-a8e2a97c2bfe">
+    </UnitTestResult>
+    <UnitTestResult executionId="c8975286-6b64-46e2-ad57-444f3b8f64c9" testId="e1b6011b-ed00-b6a9-ca3b-a2ecc7a442f8" testName="MedianPreprocessorConstructorWindowSizeOnlyPositiveTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0203681" startTime="2012-12-08T20:39:52.3300887+02:00" endTime="2012-12-08T20:39:52.3550902+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c8975286-6b64-46e2-ad57-444f3b8f64c9">
+    </UnitTestResult>
+    <UnitTestResult executionId="a1e8f7ea-009a-4314-9552-b2580ec13c46" testId="e4c3f4e3-9eeb-063e-cd56-570432f53cee" testName="MedianPreprocessorConstructorTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0003538" startTime="2012-12-08T20:39:52.3600905+02:00" endTime="2012-12-08T20:39:52.3650908+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a1e8f7ea-009a-4314-9552-b2580ec13c46">
+    </UnitTestResult>
+    <UnitTestResult executionId="f045caaf-907d-47d2-976a-88d81a9b311c" testId="ea4b6903-0b66-8ac4-269c-13a025c66551" testName="ThrowsArgumentException" computerName="KBP1-DHP-F24209" duration="00:00:00.0135778" startTime="2012-12-08T20:39:52.3700911+02:00" endTime="2012-12-08T20:39:52.3900923+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f045caaf-907d-47d2-976a-88d81a9b311c">
+    </UnitTestResult>
+    <UnitTestResult executionId="2275970c-c575-4192-b9cf-b292f3eb561b" testId="ecb9b643-bcda-dab7-25a3-1d531a237234" testName="GeneralCorrectnessTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0004445" startTime="2012-12-08T20:39:52.3950926+02:00" endTime="2012-12-08T20:39:52.4000929+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2275970c-c575-4192-b9cf-b292f3eb561b">
+    </UnitTestResult>
+    <UnitTestResult executionId="1e17eaca-6440-46e2-8d58-0866d8864365" testId="f1f6b764-199c-eb93-28c5-45e776878a29" testName="ThrowsArgumentNullException" computerName="KBP1-DHP-F24209" duration="00:00:00.0130544" startTime="2012-12-08T20:39:52.4100935+02:00" endTime="2012-12-08T20:39:52.4250944+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1e17eaca-6440-46e2-8d58-0866d8864365">
+    </UnitTestResult>
+    <UnitTestResult executionId="e761c061-1828-45fa-b374-92ed5980e563" testId="f5c49dd7-5c11-ba57-d456-2238bd64584d" testName="AddsNewComponentSuccessfully" computerName="KBP1-DHP-F24209" duration="00:00:00.0007784" startTime="2012-12-08T20:39:52.4350950+02:00" endTime="2012-12-08T20:39:52.4400953+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e761c061-1828-45fa-b374-92ed5980e563">
+    </UnitTestResult>
+    <UnitTestResult executionId="d9c2adcd-7a1d-4297-8c2f-0544d3cca0d1" testId="f99d417c-f78f-9832-fd6a-5cf102fe28c7" testName="DataObjectConstructorTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0270457" startTime="2012-12-08T20:39:52.4450956+02:00" endTime="2012-12-08T20:39:53.4601565+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d9c2adcd-7a1d-4297-8c2f-0544d3cca0d1">
+    </UnitTestResult>
+  </Results>
+</TestRun>

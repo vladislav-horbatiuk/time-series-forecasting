@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="25a15209-9cec-4001-98ba-09f123ce6ef1" name="vladyslav.gorbatiuk@KBP1-DHP-F24209 2012-08-06 18:24:54" runUser="SYNAPSE\vladyslav.gorbatiuk" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="8ec6e025-1e2a-4a48-ba26-658fa7723179">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="vladyslav.gorbatiuk_KBP1-DHP-F24209 2012-08-06 18_24_54">
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-08-06T18:24:54.8060499+03:00" queuing="2012-08-06T18:24:56.2193325+03:00" start="2012-08-06T18:24:56.3493585+03:00" finish="2012-08-06T18:25:02.7516387+03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="15" executed="12" passed="10" error="0" failed="1" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="3" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="KBP1-DHP-F24209" outcome="Error" timestamp="2012-08-06T18:25:02.7486381+03:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MedianPreprocessorConstructorWindowSizeOnlyPositiveTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\testmedianprocessor\bin\debug\testmedianprocessor.dll" id="e1b6011b-ed00-b6a9-ca3b-a2ecc7a442f8">
+      <Execution id="7f07b84e-59b9-4832-b513-33338ca3675a" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/TestMedianProcessor/bin/Debug/TestMedianProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMedianProcessor.MedianPreprocessorTest, TestMedianProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MedianPreprocessorConstructorWindowSizeOnlyPositiveTest" />
+    </UnitTest>
+    <UnitTest name="WeightedAverageConstructorGeneralTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\weightedaveragetest\bin\debug\weightedaveragetest.dll" id="0a5d8a87-71b3-96f7-9b96-d7eb0f7bc09b">
+      <Execution id="3390cec2-4a2b-4411-b4a5-ee2178addcb0" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/WeightedAverageTest/bin/Debug/WeightedAverageTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WeightedAverageTest.WeightedAverageTest, WeightedAverageTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WeightedAverageConstructorGeneralTest" />
+    </UnitTest>
+    <UnitTest name="MeanPreprocessorConstructorWindowSizeOnlyPositiveTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\testmeanprocessor\bin\debug\testmeanprocessor.dll" id="cd384c3b-0762-84cc-c9ff-0a1cf45f5179">
+      <Execution id="0dd0c5f9-dfdb-4c71-9019-53d8c0dc82d3" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/TestMeanProcessor/bin/Debug/TestMeanProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMeanProcessor.MeanPreprocessorTest, TestMeanProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MeanPreprocessorConstructorWindowSizeOnlyPositiveTest" />
+    </UnitTest>
+    <UnitTest name="ProcessTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\weightedaveragetest\bin\debug\weightedaveragetest.dll" id="7adc5048-9fc6-28b1-020d-2cab5e2848a1">
+      <Execution id="4df6c586-95a2-4f55-a308-3c2dc12a3a80" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/WeightedAverageTest/bin/Debug/WeightedAverageTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WeightedAverageTest.WeightedAverageTest, WeightedAverageTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessTest" />
+    </UnitTest>
+    <UnitTest name="ProcessMedianForEvenWindowSizeTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\testmedianprocessor\bin\debug\testmedianprocessor.dll" id="0f43129b-a67f-8f4b-602b-4316a4b0cbfa">
+      <Execution id="2921faf3-1567-4649-b758-a0ee0fb3c300" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/TestMedianProcessor/bin/Debug/TestMedianProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMedianProcessor.MedianPreprocessorTest, TestMedianProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessMedianForEvenWindowSizeTest" />
+    </UnitTest>
+    <UnitTest name="ProcessUnordinaryWindowSizesTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\testmeanprocessor\bin\debug\testmeanprocessor.dll" id="1581adcd-ba83-3a4b-a664-0368187374d1">
+      <Execution id="46c06805-1e5f-4ad9-a29e-ed0e68204772" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/TestMeanProcessor/bin/Debug/TestMeanProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMeanProcessor.MeanPreprocessorTest, TestMeanProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessUnordinaryWindowSizesTest" />
+    </UnitTest>
+    <UnitTest name="WeightedAverageConstructorThrowsExceptionTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\weightedaveragetest\bin\debug\weightedaveragetest.dll" id="c1afeb03-2e4d-7ec4-7311-eae06cb26823">
+      <Execution id="8739a705-ecd9-43ef-bb0b-1628c65702dc" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/WeightedAverageTest/bin/Debug/WeightedAverageTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WeightedAverageTest.WeightedAverageTest, WeightedAverageTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WeightedAverageConstructorThrowsExceptionTest" />
+    </UnitTest>
+    <UnitTest name="ProcessTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\testtukey53hpreprocessor\bin\debug\testtukey53hpreprocessor.dll" id="d132dbb6-21c4-eca4-4e92-1ad53fb6b9d5">
+      <Execution id="8f46f950-6e1e-4a71-b369-1fbcd56054da" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/TestTukey53HPreprocessor/bin/Debug/TestTukey53HPreprocessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestTukey53HPreprocessor.Tukey53HPreprocessorTest, TestTukey53HPreprocessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessTest" />
+    </UnitTest>
+    <UnitTest name="MeanPreprocessorConstructorTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\testmeanprocessor\bin\debug\testmeanprocessor.dll" id="d6d3d0b6-8f9f-4871-0b45-3e9556e452bd">
+      <Execution id="49f09d93-ed4f-4814-833e-6fe74d6e525f" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/TestMeanProcessor/bin/Debug/TestMeanProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMeanProcessor.MeanPreprocessorTest, TestMeanProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MeanPreprocessorConstructorTest" />
+    </UnitTest>
+    <UnitTest name="RegressionTests" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\testtukey53hpreprocessor\bin\debug\testtukey53hpreprocessor.dll" id="a8ad0b78-a3ab-6d92-b20b-ec2d378fd148">
+      <Execution id="f4d21f9d-7f32-45e1-85df-662a54ff9981" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/TestTukey53HPreprocessor/bin/Debug/TestTukey53HPreprocessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestTukey53HPreprocessor.Tukey53HPreprocessorTest, TestTukey53HPreprocessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="RegressionTests" />
+    </UnitTest>
+    <UnitTest name="WeightedAverageConstructorCalculatesWeightsSumCorrectlyTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\weightedaveragetest\bin\debug\weightedaveragetest.dll" id="0deb66dc-f3dc-fac4-162d-a6780538cbef">
+      <Execution id="0d6bb6e3-08d3-4e34-bc7e-220f72acf52a" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/WeightedAverageTest/bin/Debug/WeightedAverageTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WeightedAverageTest.WeightedAverageTest, WeightedAverageTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WeightedAverageConstructorCalculatesWeightsSumCorrectlyTest" />
+    </UnitTest>
+    <UnitTest name="ProcessTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\testmedianprocessor\bin\debug\testmedianprocessor.dll" id="1875a93a-f552-02e5-6f9e-7740719a86d2">
+      <Execution id="469c85de-0be4-4173-9fd0-cc963f9b3687" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/TestMedianProcessor/bin/Debug/TestMedianProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMedianProcessor.MedianPreprocessorTest, TestMedianProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessTest" />
+    </UnitTest>
+    <UnitTest name="ProcessUnordinaryWindowSizesTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\testmedianprocessor\bin\debug\testmedianprocessor.dll" id="1fbe4fc4-4125-8ba2-c054-349323ecb993">
+      <Execution id="b33c80f2-1414-46f5-aed4-d7cc546818b9" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/TestMedianProcessor/bin/Debug/TestMedianProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMedianProcessor.MedianPreprocessorTest, TestMedianProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessUnordinaryWindowSizesTest" />
+    </UnitTest>
+    <UnitTest name="MedianPreprocessorConstructorTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\testmedianprocessor\bin\debug\testmedianprocessor.dll" id="e4c3f4e3-9eeb-063e-cd56-570432f53cee">
+      <Execution id="d4ef182f-c007-4d3f-9411-89e253cc8177" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/TestMedianProcessor/bin/Debug/TestMedianProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMedianProcessor.MedianPreprocessorTest, TestMedianProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MedianPreprocessorConstructorTest" />
+    </UnitTest>
+    <UnitTest name="ProcessTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datapreprocessing\testmeanprocessor\bin\debug\testmeanprocessor.dll" id="998fee1e-2376-fa93-e67e-ac5c0c37d915">
+      <Execution id="f4c918a6-6a62-497c-9d3d-275f3603d814" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataPreprocessing/TestMeanProcessor/bin/Debug/TestMeanProcessor.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestMeanProcessor.MeanPreprocessorTest, TestMeanProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ProcessTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0a5d8a87-71b3-96f7-9b96-d7eb0f7bc09b" executionId="3390cec2-4a2b-4411-b4a5-ee2178addcb0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0deb66dc-f3dc-fac4-162d-a6780538cbef" executionId="0d6bb6e3-08d3-4e34-bc7e-220f72acf52a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0f43129b-a67f-8f4b-602b-4316a4b0cbfa" executionId="2921faf3-1567-4649-b758-a0ee0fb3c300" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1581adcd-ba83-3a4b-a664-0368187374d1" executionId="46c06805-1e5f-4ad9-a29e-ed0e68204772" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1875a93a-f552-02e5-6f9e-7740719a86d2" executionId="469c85de-0be4-4173-9fd0-cc963f9b3687" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1fbe4fc4-4125-8ba2-c054-349323ecb993" executionId="b33c80f2-1414-46f5-aed4-d7cc546818b9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7adc5048-9fc6-28b1-020d-2cab5e2848a1" executionId="4df6c586-95a2-4f55-a308-3c2dc12a3a80" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="998fee1e-2376-fa93-e67e-ac5c0c37d915" executionId="f4c918a6-6a62-497c-9d3d-275f3603d814" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a8ad0b78-a3ab-6d92-b20b-ec2d378fd148" executionId="f4d21f9d-7f32-45e1-85df-662a54ff9981" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c1afeb03-2e4d-7ec4-7311-eae06cb26823" executionId="8739a705-ecd9-43ef-bb0b-1628c65702dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cd384c3b-0762-84cc-c9ff-0a1cf45f5179" executionId="0dd0c5f9-dfdb-4c71-9019-53d8c0dc82d3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d132dbb6-21c4-eca4-4e92-1ad53fb6b9d5" executionId="8f46f950-6e1e-4a71-b369-1fbcd56054da" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d6d3d0b6-8f9f-4871-0b45-3e9556e452bd" executionId="49f09d93-ed4f-4814-833e-6fe74d6e525f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e1b6011b-ed00-b6a9-ca3b-a2ecc7a442f8" executionId="7f07b84e-59b9-4832-b513-33338ca3675a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e4c3f4e3-9eeb-063e-cd56-570432f53cee" executionId="d4ef182f-c007-4d3f-9411-89e253cc8177" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3390cec2-4a2b-4411-b4a5-ee2178addcb0" testId="0a5d8a87-71b3-96f7-9b96-d7eb0f7bc09b" testName="WeightedAverageConstructorGeneralTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0278590" startTime="2012-08-06T18:24:56.4713829+03:00" endTime="2012-08-06T18:24:57.6376161+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3390cec2-4a2b-4411-b4a5-ee2178addcb0">
+    </UnitTestResult>
+    <UnitTestResult executionId="0d6bb6e3-08d3-4e34-bc7e-220f72acf52a" testId="0deb66dc-f3dc-fac4-162d-a6780538cbef" testName="WeightedAverageConstructorCalculatesWeightsSumCorrectlyTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0006081" startTime="2012-08-06T18:24:57.6466179+03:00" endTime="2012-08-06T18:24:57.6546195+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0d6bb6e3-08d3-4e34-bc7e-220f72acf52a">
+    </UnitTestResult>
+    <UnitTestResult executionId="2921faf3-1567-4649-b758-a0ee0fb3c300" testId="0f43129b-a67f-8f4b-602b-4316a4b0cbfa" testName="ProcessMedianForEvenWindowSizeTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0363624" startTime="2012-08-06T18:24:57.6676221+03:00" endTime="2012-08-06T18:24:58.5688023+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2921faf3-1567-4649-b758-a0ee0fb3c300">
+    </UnitTestResult>
+    <UnitTestResult executionId="46c06805-1e5f-4ad9-a29e-ed0e68204772" testId="1581adcd-ba83-3a4b-a664-0368187374d1" testName="ProcessUnordinaryWindowSizesTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0278574" startTime="2012-08-06T18:24:58.5808047+03:00" endTime="2012-08-06T18:24:59.5089903+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="46c06805-1e5f-4ad9-a29e-ed0e68204772">
+    </UnitTestResult>
+    <UnitTestResult executionId="469c85de-0be4-4173-9fd0-cc963f9b3687" testId="1875a93a-f552-02e5-6f9e-7740719a86d2" testName="ProcessTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0005196" startTime="2012-08-06T18:24:59.5159917+03:00" endTime="2012-08-06T18:24:59.5199925+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="469c85de-0be4-4173-9fd0-cc963f9b3687">
+    </UnitTestResult>
+    <UnitTestResult executionId="b33c80f2-1414-46f5-aed4-d7cc546818b9" testId="1fbe4fc4-4125-8ba2-c054-349323ecb993" testName="ProcessUnordinaryWindowSizesTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0004134" startTime="2012-08-06T18:24:59.5359957+03:00" endTime="2012-08-06T18:24:59.5449975+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b33c80f2-1414-46f5-aed4-d7cc546818b9">
+    </UnitTestResult>
+    <UnitTestResult executionId="4df6c586-95a2-4f55-a308-3c2dc12a3a80" testId="7adc5048-9fc6-28b1-020d-2cab5e2848a1" testName="ProcessTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0038013" startTime="2012-08-06T18:24:59.5529991+03:00" endTime="2012-08-06T18:24:59.5670019+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4df6c586-95a2-4f55-a308-3c2dc12a3a80">
+    </UnitTestResult>
+    <UnitTestResult executionId="f4c918a6-6a62-497c-9d3d-275f3603d814" testId="998fee1e-2376-fa93-e67e-ac5c0c37d915" testName="ProcessTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0003971" startTime="2012-08-06T18:24:59.5770039+03:00" endTime="2012-08-06T18:24:59.5830051+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f4c918a6-6a62-497c-9d3d-275f3603d814">
+    </UnitTestResult>
+    <UnitTestResult executionId="f4d21f9d-7f32-45e1-85df-662a54ff9981" testId="a8ad0b78-a3ab-6d92-b20b-ec2d378fd148" testName="RegressionTests" computerName="KBP1-DHP-F24209" duration="00:00:00.1061657" startTime="2012-08-06T18:24:59.5910067+03:00" endTime="2012-08-06T18:25:00.5722029+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f4d21f9d-7f32-45e1-85df-662a54ff9981">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestTukey53HPreprocessor.Tukey53HPreprocessorTest.RegressionTests threw exception: 
+System.ArgumentNullException: Value cannot be null.
+Parameter name: source</Message>
+          <StackTrace>    at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at DataPreprocessing.Tukey53HPreprocessor.Process(Double[] iArray) in C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\DataPreprocessing\Preprocessors.cs:line 226
+   at TestTukey53HPreprocessor.Tukey53HPreprocessorTest.RegressionTests() in C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestTukey53HPreprocessor\Tukey53HPreprocessorTest.cs:line 109
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="8739a705-ecd9-43ef-bb0b-1628c65702dc" testId="c1afeb03-2e4d-7ec4-7311-eae06cb26823" testName="WeightedAverageConstructorThrowsExceptionTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0206723" startTime="2012-08-06T18:25:00.5902065+03:00" endTime="2012-08-06T18:25:00.6172119+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8739a705-ecd9-43ef-bb0b-1628c65702dc">
+    </UnitTestResult>
+    <UnitTestResult executionId="0dd0c5f9-dfdb-4c71-9019-53d8c0dc82d3" testId="cd384c3b-0762-84cc-c9ff-0a1cf45f5179" testName="MeanPreprocessorConstructorWindowSizeOnlyPositiveTest" computerName="KBP1-DHP-F24209" duration="00:00:00.0292341" startTime="2012-08-06T18:25:00.6282141+03:00" endTime="2012-08-06T18:25:00.6652215+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0dd0c5f9-dfdb-4c71-9019-53d8c0dc82d3">
+    </UnitTestResult>
+    <UnitTestResult executionId="8f46f950-6e1e-4a71-b369-1fbcd56054da" testId="d132dbb6-21c4-eca4-4e92-1ad53fb6b9d5" testName="ProcessTest" computerName="KBP1-DHP-F24209" duration="00:00:02.0784156" startTime="2012-08-06T18:25:00.6722229+03:00" endTime="2012-08-06T18:25:02.7506385+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8f46f950-6e1e-4a71-b369-1fbcd56054da">
+    </UnitTestResult>
+    <UnitTestResult executionId="49f09d93-ed4f-4814-833e-6fe74d6e525f" testId="d6d3d0b6-8f9f-4871-0b45-3e9556e452bd" testName="MeanPreprocessorConstructorTest" computerName="KBP1-DHP-F24209" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="49f09d93-ed4f-4814-833e-6fe74d6e525f">
+    </UnitTestResult>
+    <UnitTestResult executionId="7f07b84e-59b9-4832-b513-33338ca3675a" testId="e1b6011b-ed00-b6a9-ca3b-a2ecc7a442f8" testName="MedianPreprocessorConstructorWindowSizeOnlyPositiveTest" computerName="KBP1-DHP-F24209" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7f07b84e-59b9-4832-b513-33338ca3675a">
+    </UnitTestResult>
+    <UnitTestResult executionId="d4ef182f-c007-4d3f-9411-89e253cc8177" testId="e4c3f4e3-9eeb-063e-cd56-570432f53cee" testName="MedianPreprocessorConstructorTest" computerName="KBP1-DHP-F24209" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d4ef182f-c007-4d3f-9411-89e253cc8177">
+    </UnitTestResult>
+  </Results>
+</TestRun>

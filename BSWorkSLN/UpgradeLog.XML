@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BSWorkSLN">
+</Property><Property Name="Solution File" Value="E:\BS_Work\BSWorkSLN\BSWorkSLN.sln">
+</Property><Property Name="Date" Value="22 березня 2013 р.">
+</Property><Property Name="Time" Value="10:05">
+</Property></Properties><Event ErrorLevel="0" Project="DataObjectsSupply" Source="DataObjectsSupply\DataObjectsSupply\DataObjectsSupply.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DataObjectsSupply" Source="DataObjectsSupply\DataObjectsSupply\DataObjectsSupply.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="DataPreprocessing" Source="DataPreprocessing\DataPreprocessing\DataPreprocessing.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DataPreprocessing" Source="DataPreprocessing\DataPreprocessing\DataPreprocessing.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="DataVisualization" Source="DataVisualization\DataVisualization\DataVisualization.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DataVisualization" Source="DataVisualization\DataVisualization\DataVisualization.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Graph" Source="Graph\Graph\Graph.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Graph" Source="Graph\Graph\Graph.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestGraphingAndPreprocessing" Source="TestGraphingAndPreprocessing\TestGraphingAndPreprocessing\TestGraphingAndPreprocessing.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestGraphingAndPreprocessing" Source="TestGraphingAndPreprocessing\TestGraphingAndPreprocessing\TestGraphingAndPreprocessing.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestGraphForm" Source="Graph\TestGraphForm\TestGraphForm.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestGraphForm" Source="Graph\TestGraphForm\TestGraphForm.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestViasualizer" Source="DataVisualization\ViasualizerTest\TestViasualizer.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestViasualizer" Source="DataVisualization\ViasualizerTest\TestViasualizer.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestFourierPreprocessor" Source="DataPreprocessing\FourierPreprocessor\TestFourierPreprocessor.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestFourierPreprocessor" Source="DataPreprocessing\FourierPreprocessor\TestFourierPreprocessor.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestMeanProcessor" Source="DataPreprocessing\TestMeanProcessor\TestMeanProcessor.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestMeanProcessor" Source="DataPreprocessing\TestMeanProcessor\TestMeanProcessor.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestMedianProcessor" Source="DataPreprocessing\TestMedianProcessor\TestMedianProcessor.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestMedianProcessor" Source="DataPreprocessing\TestMedianProcessor\TestMedianProcessor.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestTukey53HPreprocessor" Source="DataPreprocessing\TestTukey53HPreprocessor\TestTukey53HPreprocessor.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestTukey53HPreprocessor" Source="DataPreprocessing\TestTukey53HPreprocessor\TestTukey53HPreprocessor.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestWeightedAverage" Source="DataPreprocessing\WeightedAverageTest\TestWeightedAverage.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestWeightedAverage" Source="DataPreprocessing\WeightedAverageTest\TestWeightedAverage.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestDataSupplier" Source="DataObjectsSupply\TestDataSupplier\TestDataSupplier.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestDataSupplier" Source="DataObjectsSupply\TestDataSupplier\TestDataSupplier.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestRepository" Source="TestRepository\TestRepository.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestRepository" Source="TestRepository\TestRepository.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="BSRepository" Source="BSRepository\BSRepository.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="BSRepository" Source="BSRepository\BSRepository.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="BS_Main" Source="BS_Main\BS_Main.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="BS_Main" Source="BS_Main\BS_Main.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestBSManager" Source="TestBSManager\TestBSManager.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestBSManager" Source="TestBSManager\TestBSManager.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="BSManager" Source="BSManager\BSManager.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="BSManager" Source="BSManager\BSManager.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="BSComponents" Source="BSComponents\BSComponents.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="BSComponents" Source="BSComponents\BSComponents.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="VisualizationHandling" Source="VisualizationHandling\VisualizationHandling.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="VisualizationHandling" Source="VisualizationHandling\VisualizationHandling.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="ComponentsConfiguration" Source="ComponentsConfiguration\ComponentsConfiguration.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ComponentsConfiguration" Source="ComponentsConfiguration\ComponentsConfiguration.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="ComponentsSettingsForms" Source="ComponentsSettingsForms\ComponentsSettingsForms.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ComponentsSettingsForms" Source="ComponentsSettingsForms\ComponentsSettingsForms.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TimeSeriesForecasting" Source="TimeSeriesForecasting\TimeSeriesForecasting.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TimeSeriesForecasting" Source="TimeSeriesForecasting\TimeSeriesForecasting.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestTimeSeriesForecasting" Source="TestTimeSeriesForecasting\TestTimeSeriesForecasting.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestTimeSeriesForecasting" Source="TestTimeSeriesForecasting\TestTimeSeriesForecasting.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="DataObject" Source="DataObject\DataObject\DataObject.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="DataObject" Source="DataObject\DataObject\DataObject.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TestDataObject" Source="DataObject\TestDataObject\TestDataObject.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="TestDataObject" Source="DataObject\TestDataObject\TestDataObject.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="BSWorkSLN.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BSWorkSLN.sln" Description="Converted">
+</Event></UpgradeLog>

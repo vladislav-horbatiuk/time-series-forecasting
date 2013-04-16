@@ -1,0 +1,54 @@
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObject\TestDataObject\bin\Debug\TestDataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObject\TestDataObject\bin\Debug\TestDataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObject\TestDataObject\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObject\TestDataObject\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObject\TestDataObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObject\TestDataObject\obj\Debug\TestDataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObject\TestDataObject\obj\Debug\TestDataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObject\TestDataObject\bin\Debug\TestDataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObject\TestDataObject\bin\Debug\TestDataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObject\TestDataObject\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObject\TestDataObject\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObject\TestDataObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObject\TestDataObject\obj\Debug\TestDataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObject\TestDataObject\obj\Debug\TestDataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataObject\TestDataObject\bin\Debug\TestDataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\DataObject\TestDataObject\bin\Debug\TestDataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataObject\TestDataObject\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\DataObject\TestDataObject\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataObject\TestDataObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Влад\Dropbox\BS_Work\DataObject\TestDataObject\obj\Debug\TestDataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\DataObject\TestDataObject\obj\Debug\TestDataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\TestDataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\TestDataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\obj\Debug\TestDataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\obj\Debug\TestDataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\TestDataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\TestDataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\obj\Debug\TestDataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\obj\Debug\TestDataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\obj\Debug\TestDataObject.csprojResolveAssemblyReference.cache
+E:\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\TestDataObject.dll
+E:\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\TestDataObject.pdb
+E:\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\DataObject.dll
+E:\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\DataObject.pdb
+E:\BS_Work\BSWorkSLN\DataObject\TestDataObject\obj\Debug\TestDataObject.dll
+E:\BS_Work\BSWorkSLN\DataObject\TestDataObject\obj\Debug\TestDataObject.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\TestDataObject.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\TestDataObject.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\DataObject.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\DataObject.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\obj\Debug\TestDataObject.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\obj\Debug\TestDataObject.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\TestDataObject.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\TestDataObject.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\DataObject.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\bin\Debug\DataObject.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\obj\Debug\TestDataObject.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\obj\Debug\TestDataObject.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObject\TestDataObject\obj\Debug\TestDataObject.csprojResolveAssemblyReference.cache

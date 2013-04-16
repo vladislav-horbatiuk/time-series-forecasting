@@ -1,0 +1,88 @@
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\bin\Debug\Graph.exe
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\bin\Debug\Graph.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\obj\x86\Debug\Graph.Properties.Resources.resources
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\obj\x86\Debug\Graph.exe
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\obj\x86\Debug\Graph.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\obj\x86\Debug\Graph.GraphForm.resources
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\bin\Debug\DataVisualization.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\bin\Debug\DataVisualization.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\Graph\bin\Debug\Graph.exe
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\Graph\bin\Debug\Graph.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\Graph\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\Graph\obj\x86\Debug\Graph.GraphForm.resources
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\Graph\obj\x86\Debug\Graph.Properties.Resources.resources
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\Graph\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\Graph\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\Graph\obj\x86\Debug\Graph.exe
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\Graph\obj\x86\Debug\Graph.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\Graph\bin\Debug\VisualizationHandling.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\Graph\bin\Debug\VisualizationHandling.pdb
+C:\Users\Влад\Dropbox\BS_Work\Graph\Graph\bin\Debug\Graph.exe
+C:\Users\Влад\Dropbox\BS_Work\Graph\Graph\bin\Debug\Graph.pdb
+C:\Users\Влад\Dropbox\BS_Work\Graph\Graph\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\Graph\Graph\bin\Debug\VisualizationHandling.dll
+C:\Users\Влад\Dropbox\BS_Work\Graph\Graph\bin\Debug\VisualizationHandling.pdb
+C:\Users\Влад\Dropbox\BS_Work\Graph\Graph\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\Graph\Graph\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Влад\Dropbox\BS_Work\Graph\Graph\obj\x86\Debug\Graph.GraphForm.resources
+C:\Users\Влад\Dropbox\BS_Work\Graph\Graph\obj\x86\Debug\Graph.Properties.Resources.resources
+C:\Users\Влад\Dropbox\BS_Work\Graph\Graph\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Влад\Dropbox\BS_Work\Graph\Graph\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Влад\Dropbox\BS_Work\Graph\Graph\obj\x86\Debug\Graph.exe
+C:\Users\Влад\Dropbox\BS_Work\Graph\Graph\obj\x86\Debug\Graph.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\Graph.exe
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\Graph.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\VisualizationHandling.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\VisualizationHandling.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.GraphForm.resources
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.Properties.Resources.resources
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.exe
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\Graph.exe
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\Graph.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\VisualizationHandling.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\VisualizationHandling.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.GraphForm.resources
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.Properties.Resources.resources
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.csproj.GenerateResource.Cache
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.exe
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.pdb
+E:\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\Graph.exe
+E:\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\Graph.pdb
+E:\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\VisualizationHandling.dll
+E:\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\VisualizationHandling.pdb
+E:\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.csprojResolveAssemblyReference.cache
+E:\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.GraphForm.resources
+E:\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.Properties.Resources.resources
+E:\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.csproj.GenerateResource.Cache
+E:\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.exe
+E:\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\Graph.exe
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\Graph.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\VisualizationHandling.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\VisualizationHandling.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.csprojResolveAssemblyReference.cache
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.GraphForm.resources
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.Properties.Resources.resources
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.csproj.GenerateResource.Cache
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.exe
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\Graph.exe
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\Graph.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\VisualizationHandling.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\bin\Debug\VisualizationHandling.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.csprojResolveAssemblyReference.cache
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.GraphForm.resources
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.Properties.Resources.resources
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.csproj.GenerateResource.Cache
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.exe
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\Graph\obj\x86\Debug\Graph.pdb

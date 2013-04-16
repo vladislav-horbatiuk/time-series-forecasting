@@ -1,0 +1,86 @@
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\DataVisualization\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\DataVisualization\bin\Debug\DataVisualization.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\DataVisualization\bin\Debug\DataVisualization.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\DataVisualization\obj\Debug\DataVisualization.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\DataVisualization\obj\Debug\DataVisualization.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\DataVisualization\bin\Debug\Graph.exe
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\DataVisualization\bin\Debug\Graph.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\DataVisualization\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\DataVisualization\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\DataVisualization.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\DataVisualization.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\Graph.exe
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\Graph.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataVisualization\DataVisualization\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataVisualization\DataVisualization\obj\Debug\DataVisualization.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataVisualization\DataVisualization\obj\Debug\DataVisualization.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\VisualizationHandling.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\VisualizationHandling.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\DataVisualization.dll
+C:\Users\Влад\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\DataVisualization.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\Graph.exe
+C:\Users\Влад\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\VisualizationHandling.dll
+C:\Users\Влад\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\VisualizationHandling.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\Graph.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataVisualization\DataVisualization\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataVisualization\DataVisualization\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Влад\Dropbox\BS_Work\DataVisualization\DataVisualization\obj\Debug\DataVisualization.dll
+C:\Users\Влад\Dropbox\BS_Work\DataVisualization\DataVisualization\obj\Debug\DataVisualization.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataVisualization.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataVisualization.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\Graph.exe
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\VisualizationHandling.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\VisualizationHandling.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\Graph.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\DataVisualization.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\DataVisualization.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataVisualization.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataVisualization.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\Graph.exe
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\VisualizationHandling.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\VisualizationHandling.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\Graph.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\DataVisualization.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\DataVisualization.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\DataVisualization.pdb
+E:\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataVisualization.dll
+E:\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataVisualization.pdb
+E:\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataObject.dll
+E:\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\Graph.exe
+E:\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\VisualizationHandling.dll
+E:\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataObject.pdb
+E:\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\VisualizationHandling.pdb
+E:\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\Graph.pdb
+E:\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\DataVisualization.csprojResolveAssemblyReference.cache
+E:\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\DataVisualization.dll
+E:\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\DataVisualization.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataVisualization.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataVisualization.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataObject.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\Graph.exe
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\VisualizationHandling.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataObject.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\VisualizationHandling.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\Graph.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\DataVisualization.csprojResolveAssemblyReference.cache
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\DataVisualization.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\DataVisualization.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataVisualization.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataVisualization.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataObject.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\Graph.exe
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\VisualizationHandling.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\DataObject.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\VisualizationHandling.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\bin\Debug\Graph.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\DataVisualization.csprojResolveAssemblyReference.cache
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\DataVisualization.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataVisualization\DataVisualization\obj\Debug\DataVisualization.pdb

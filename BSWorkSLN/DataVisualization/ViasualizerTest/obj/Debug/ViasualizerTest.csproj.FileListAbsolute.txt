@@ -1,0 +1,11 @@
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\ViasualizerTest\bin\Debug\ViasualizerTest.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\ViasualizerTest\bin\Debug\ViasualizerTest.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\ViasualizerTest\bin\Debug\DataVisualization.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\ViasualizerTest\bin\Debug\Graph.exe
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\ViasualizerTest\bin\Debug\DataVisualization.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\ViasualizerTest\bin\Debug\Graph.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\ViasualizerTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\ViasualizerTest\obj\Debug\ViasualizerTest.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\ViasualizerTest\obj\Debug\ViasualizerTest.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\ViasualizerTest\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\ViasualizerTest\bin\Debug\DataObject.pdb

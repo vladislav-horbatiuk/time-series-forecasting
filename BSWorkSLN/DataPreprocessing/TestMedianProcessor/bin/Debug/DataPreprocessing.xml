@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataPreprocessing</name>
+    </assembly>
+    <members>
+        <member name="T:DataPreprocessing.DerivativePreprocessor">
+            <summary>
+            A class for preprocessing data using discrete derivative (der(x) = y(x+1) - y(x)).
+            Parameters: None.
+            </summary>
+        </member>
+        <member name="T:DataPreprocessing.WindowBasedPreprocessor">
+            <summary>
+            An abstract class for all window-based preprocessors (like median filter, mean filter etc.)
+            Parameters: window size - any positive (strictly greater than 0) number smaller than input vector size
+            </summary>
+        </member>
+        <member name="M:DataPreprocessing.WindowBasedPreprocessor.#ctor">
+            <summary>
+            Default constructor, sets window size to 5
+            </summary>
+        </member>
+        <member name="T:DataPreprocessing.MedianPreprocessor">
+            <summary>
+            A class for preprocessing data using median filter
+            Parameters: window size - any positive (strictly greater than 0) number smaller than input vector size
+            In case of window size > input data size will return empty array
+            </summary>
+        </member>
+        <member name="M:DataPreprocessing.MedianPreprocessor.#ctor">
+            <summary>
+            Default constructor, sets window size to 5
+            </summary>
+        </member>
+        <member name="T:DataPreprocessing.MeanPreprocessor">
+            <summary>
+            A class for preprocessing data using mean filter
+            Parameters: window size - any positive (strictly greater than 0) number smaller than input vector size
+            In case of window size > input data size will return empty array
+            </summary>
+        </member>
+        <member name="M:DataPreprocessing.MeanPreprocessor.#ctor">
+            <summary>
+            Default constructor, sets window size to 5
+            </summary>
+        </member>
+        <member name="T:DataPreprocessing.WeightedAveragePreprocessor">
+            <summary>
+            A class for preprocessing data using weighted average filter
+            Parameters: 
+            1) Window size - any positive (strictly greater than 0) number smaller than input vector size
+            In case of window size > input data size will return empty array;
+            2) Weights array - array of usually positive doubles, array size should be exactly equal to window size;
+            Default value is array of 1's.
+            NOTE: Could actually work as a mean preprocessor, but mean preprocessor is a bit faster (since it doesn't multiply elements by their weights).
+            </summary>
+        </member>
+        <member name="M:DataPreprocessing.WeightedAveragePreprocessor.#ctor">
+            <summary>
+            Default constructor, sets window size to 5, initializes weights array to 1's
+            </summary>
+        </member>
+        <member name="T:DataPreprocessing.Tukey53HPreprocessor">
+            <summary>
+            A class for preprocessing data using Tukey53H filter
+            Parameters: k - treshold to determine, whether the specified value is spike or not.
+            Smaller k -> more values are considered as spikes. Default value is 5.
+            Usual range of k values is 3...9.
+            </summary>
+        </member>
+        <member name="M:DataPreprocessing.Tukey53HPreprocessor.#ctor">
+            <summary>
+            Default constructor, sets k to 5
+            </summary>
+        </member>
+        <member name="T:DataPreprocessing.FourierPreprocessor">
+            <summary>
+            Class for preprocessing data using DFT.
+            </summary>
+        </member>
+        <member name="M:DataPreprocessing.FourierPreprocessor.Process(BSWork.DataObjects.BSDataObject)">
+            <summary>
+            Processes data using DFT.
+            </summary>
+            <param name="iObject">A BSDataObject to process.</param>
+            <returns>New BSDataObject, where each value in the DataArray is specturm amlitude for the given frequency.</returns>
+        </member>
+        <member name="T:DataPreprocessing.InverseFourierPreprocessor">
+            <summary>
+            Class for preprocessing data using inverse DFT.
+            </summary>
+        </member>
+        <member name="M:DataPreprocessing.InverseFourierPreprocessor.Process(BSWork.DataObjects.BSDataObject)">
+            <summary>
+            Processes data using inverse DFT.
+            </summary>
+            <param name="iObject">A BSDataObject to process.</param>
+            <returns>New BSDataObject, where each value in the DataArray is function value for the given time.</returns>
+        </member>
+    </members>
+</doc>

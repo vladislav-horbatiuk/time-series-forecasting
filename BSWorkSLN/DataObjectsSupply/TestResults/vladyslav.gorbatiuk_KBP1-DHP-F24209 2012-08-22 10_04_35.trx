@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="bb341a98-bcdb-434e-ab03-425dec37b840" name="vladyslav.gorbatiuk@KBP1-DHP-F24209 2012-08-22 10:04:35" runUser="SYNAPSE\vladyslav.gorbatiuk" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="f8763762-7093-4cc0-a95c-17d296214aa3">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="vladyslav.gorbatiuk_KBP1-DHP-F24209 2012-08-22 10_04_35">
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObjectsSupply\DataObjectsSupply\bin\Debug\DataObjectsSupply.dll" />
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObject\DataObject\bin\Debug\DataObject.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-08-22T10:04:35.8331233+03:00" queuing="2012-08-22T10:04:36.7822182+03:00" start="2012-08-22T10:04:36.8502250+03:00" finish="2012-08-22T10:04:38.2143614+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetDataObjectForStreamTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\dataobjectssupply\testdatasupplier\bin\debug\testdatasupplier.dll" id="8bb0281b-6670-fc46-3f03-e8e5a87eace0">
+      <Execution id="c73fdb1c-452e-466a-9b8a-506823fee456" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataObjectsSupply/TestDataSupplier/bin/Debug/TestDataSupplier.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestDataSupplier.DataObjectSupplierTest, TestDataSupplier, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetDataObjectForStreamTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="8bb0281b-6670-fc46-3f03-e8e5a87eace0" executionId="c73fdb1c-452e-466a-9b8a-506823fee456" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c73fdb1c-452e-466a-9b8a-506823fee456" testId="8bb0281b-6670-fc46-3f03-e8e5a87eace0" testName="GetDataObjectForStreamTest" computerName="KBP1-DHP-F24209" duration="00:00:00.2951330" startTime="2012-08-22T10:04:36.9152315+03:00" endTime="2012-08-22T10:04:38.0633463+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c73fdb1c-452e-466a-9b8a-506823fee456">
+      <Output>
+        <ErrorInfo>
+          <Message>CollectionAssert.AreEqual failed. (Element at index 1 do not match.)</Message>
+          <StackTrace>   at TestDataSupplier.DataObjectSupplierTest.GetDataObjectForStreamTest() in C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObjectsSupply\TestDataSupplier\DataObjectSupplierTest.cs:line 110
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

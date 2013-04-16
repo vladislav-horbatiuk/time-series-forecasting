@@ -1,0 +1,97 @@
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestMeanProcessor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.Math.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.Math.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.Math.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.Math.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.xml
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.Math.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.xml
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.Math.xml
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.Math.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.Math.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.Math.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.xml
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.csprojResolveAssemblyReference.cache
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.dll
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.pdb
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.dll
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.dll
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.Math.dll
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.pdb
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.pdb
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.xml
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.dll
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.Math.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.xml
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\TestMeanProcessor.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\AForge.Math.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataObject.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\bin\Debug\DataPreprocessing.xml
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestMeanProcessor\obj\Debug\TestMeanProcessor.csprojResolveAssemblyReference.cache

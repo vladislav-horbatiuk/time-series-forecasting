@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{74CA34D1-D03E-4DD0-B564-1D62FF3B57B0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BSComponents</RootNamespace>
+    <AssemblyName>BSComponents</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Neuro, Version=2.2.4.0, Culture=neutral, PublicKeyToken=2094f4ea39731d4f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\AForge.Neuro.2.2.4\lib\AForge.Neuro.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BSBaseComponent.cs" />
+    <Compile Include="BSForecastingComponent.cs" />
+    <Compile Include="BSGraphComponent.cs" />
+    <Compile Include="BSInputComponent.cs" />
+    <Compile Include="BSModelBuilderComponent.cs" />
+    <Compile Include="BSPreprocessorComponent.cs" />
+    <Compile Include="BSSaveDataComponent.cs" />
+    <Compile Include="ConcreteComponentFactories.cs" />
+    <Compile Include="IComponentsFactory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\strings.uk.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>strings.uk.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\strings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>strings.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataObjectsSupply\DataObjectsSupply\DataObjectsSupply.csproj">
+      <Project>{7A47EC3A-673C-482F-99E7-1601BEE02258}</Project>
+      <Name>DataObjectsSupply</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataPreprocessing\DataPreprocessing\DataPreprocessing.csproj">
+      <Project>{85E9BB6F-B0C9-471E-9A8B-385504F0396B}</Project>
+      <Name>DataPreprocessing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataVisualization\DataVisualization\DataVisualization.csproj">
+      <Project>{9F3DACEE-BB7C-4463-AD7D-B37C95EF952F}</Project>
+      <Name>DataVisualization</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BSRepository\BSRepository.csproj">
+      <Project>{D5313492-17F6-4C1E-9F1D-AEB2CB16AD3D}</Project>
+      <Name>BSRepository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ComponentsConfiguration\ComponentsConfiguration.csproj">
+      <Project>{3FA52F64-3653-4673-8DFF-04AFADE7F55B}</Project>
+      <Name>ComponentsConfiguration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ComponentsSettingsForms\ComponentsSettingsForms.csproj">
+      <Project>{1DE4FE6F-B3E3-4C1F-9246-457696584176}</Project>
+      <Name>ComponentsSettingsForms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataObject\DataObject\DataObject.csproj">
+      <Project>{EBE54B00-EF75-42D8-A822-E4324CFA1610}</Project>
+      <Name>DataObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TimeSeriesForecasting\TimeSeriesForecasting.csproj">
+      <Project>{02E16CC4-4983-4D3B-AF6A-89287FF0AF86}</Project>
+      <Name>TimeSeriesForecasting</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VisualizationHandling\VisualizationHandling.csproj">
+      <Project>{1EE0606F-8010-4B11-9214-31AAD38CD55A}</Project>
+      <Name>VisualizationHandling</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\strings.uk.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>strings.uk.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\strings.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>strings.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,77 @@
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\DataPreprocessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.Math.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.Math.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.Math.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.Math.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.XML
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.Math.xml
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.XML
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.Math.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.Math.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\AForge.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.XML
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.XML
+E:\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.dll
+E:\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.pdb
+E:\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.dll
+E:\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.pdb
+E:\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.csprojResolveAssemblyReference.cache
+E:\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.dll
+E:\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.XML
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.csprojResolveAssemblyReference.cache
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.XML
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataPreprocessing.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\bin\Debug\DataObject.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.csprojResolveAssemblyReference.cache
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\DataPreprocessing\obj\Debug\DataPreprocessing.pdb

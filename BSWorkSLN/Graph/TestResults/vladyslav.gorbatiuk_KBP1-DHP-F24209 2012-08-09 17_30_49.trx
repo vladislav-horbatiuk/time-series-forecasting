@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="40c116f5-6ed3-4c6b-84d3-80017ea07856" name="vladyslav.gorbatiuk@KBP1-DHP-F24209 2012-08-09 17:30:49" runUser="SYNAPSE\vladyslav.gorbatiuk" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ce025e81-9012-42c8-95db-292218b294a6">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="vladyslav.gorbatiuk_KBP1-DHP-F24209 2012-08-09 17_30_49">
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\bin\Debug\Graph.exe" />
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\DataVisualization\bin\Debug\DataVisualization.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-08-09T17:30:49.4046690+03:00" queuing="2012-08-09T17:30:50.5417827+03:00" start="2012-08-09T17:30:50.6107896+03:00" finish="2012-08-09T17:30:52.3169602+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AddGraphTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\graph\testgraphform\bin\debug\testgraphform.dll" id="2f800f48-1198-ec40-9e61-23b2f693d708">
+      <Execution id="fb1cd6d2-c37f-4a89-be6a-d71f06c9a503" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/Graph/TestGraphForm/bin/Debug/TestGraphForm.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGraphForm.GraphFormTest, TestGraphForm, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AddGraphTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2f800f48-1198-ec40-9e61-23b2f693d708" executionId="fb1cd6d2-c37f-4a89-be6a-d71f06c9a503" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fb1cd6d2-c37f-4a89-be6a-d71f06c9a503" testId="2f800f48-1198-ec40-9e61-23b2f693d708" testName="AddGraphTest" computerName="KBP1-DHP-F24209" duration="00:00:00.2000021" startTime="2012-08-09T17:30:50.6637949+03:00" endTime="2012-08-09T17:30:52.2309516+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fb1cd6d2-c37f-4a89-be6a-d71f06c9a503">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestGraphForm.GraphFormTest.AddGraphTest threw exception: 
+System.InvalidOperationException: Form that is already visible cannot be displayed as a modal dialog box. Set the form's visible property to false before calling showDialog.</Message>
+          <StackTrace>    at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at System.Windows.Forms.Form.ShowDialog()
+   at TestGraphForm.GraphFormTest.AddGraphTest() in C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\TestGraphForm\GraphFormTest.cs:line 85
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

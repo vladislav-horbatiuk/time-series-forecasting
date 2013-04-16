@@ -1,0 +1,71 @@
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObjectsSupply\TestDataSupplier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.dll
+C:\Users\Влад\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.dll
+C:\Users\Влад\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Влад\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.dll
+C:\Users\Влад\Dropbox\BS_Work\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.pdb
+E:\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.dll
+E:\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.pdb
+E:\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.dll
+E:\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.dll
+E:\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.pdb
+E:\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.pdb
+E:\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.dll
+E:\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.pdb
+E:\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.csprojResolveAssemblyReference.cache
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\TestDataSupplier.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObject.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\bin\Debug\DataObjectsSupply.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataObjectsSupply\TestDataSupplier\obj\Debug\TestDataSupplier.csprojResolveAssemblyReference.cache

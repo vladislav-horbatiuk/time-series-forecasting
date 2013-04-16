@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="84379ae4-5407-46ee-9c45-f228e8d279a2" name="vladyslav.gorbatiuk@KBP1-DHP-F24209 2012-08-16 15:05:29" runUser="SYNAPSE\vladyslav.gorbatiuk" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6962cc40-9450-40ca-969d-a1862a1e5b17">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="vladyslav.gorbatiuk_KBP1-DHP-F24209 2012-08-16 15_05_29">
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataObject\DataObject\bin\Debug\DataObject.dll" />
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\Graph\bin\Debug\Graph.exe" />
+      <DeploymentItem filename="C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataVisualization\DataVisualization\bin\Debug\DataVisualization.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-08-16T15:05:29.4850973+03:00" queuing="2012-08-16T15:05:30.4541942+03:00" start="2012-08-16T15:05:30.5622050+03:00" finish="2012-08-16T15:05:42.0533540+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="VisualizeTest" storage="c:\users\vladyslav.gorbatiuk.synapse\documents\visual studio 2010\projects\datavisualization\viasualizertest\bin\debug\viasualizertest.dll" id="318a293f-f14e-a16d-ea5b-6406ff7c4727">
+      <Execution id="5ae25885-4b5b-462d-9da3-12578911bd12" />
+      <TestMethod codeBase="C:/Users/vladyslav.gorbatiuk.SYNAPSE/Documents/Visual Studio 2010/Projects/DataVisualization/ViasualizerTest/bin/Debug/ViasualizerTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ViasualizerTest.SimpleVisualizerTest, ViasualizerTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="VisualizeTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="318a293f-f14e-a16d-ea5b-6406ff7c4727" executionId="5ae25885-4b5b-462d-9da3-12578911bd12" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5ae25885-4b5b-462d-9da3-12578911bd12" testId="318a293f-f14e-a16d-ea5b-6406ff7c4727" testName="VisualizeTest" computerName="KBP1-DHP-F24209" duration="00:00:10.2107299" startTime="2012-08-16T15:05:30.6712159+03:00" endTime="2012-08-16T15:05:41.9923479+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5ae25885-4b5b-462d-9da3-12578911bd12">
+    </UnitTestResult>
+  </Results>
+</TestRun>

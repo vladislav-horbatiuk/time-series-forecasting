@@ -1,0 +1,102 @@
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\TestGraphForm\bin\Debug\TestGraphForm.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\TestGraphForm\bin\Debug\TestGraphForm.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\TestGraphForm\bin\Debug\DataVisualization.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\TestGraphForm\bin\Debug\Graph.exe
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\TestGraphForm\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\TestGraphForm\bin\Debug\Graph.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\TestGraphForm\bin\Debug\DataVisualization.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\TestGraphForm\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\TestGraphForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\TestGraphForm\obj\Debug\TestGraphForm.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\Graph\TestGraphForm\obj\Debug\TestGraphForm.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\TestGraphForm.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\TestGraphForm.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\Graph.exe
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\Graph.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\TestGraphForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\TestGraphForm\obj\Debug\TestGraphForm.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\TestGraphForm\obj\Debug\TestGraphForm.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\VisualizationHandling.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\VisualizationHandling.pdb
+C:\Users\Влад\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\TestGraphForm.dll
+C:\Users\Влад\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\TestGraphForm.pdb
+C:\Users\Влад\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\DataVisualization.dll
+C:\Users\Влад\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\Graph.exe
+C:\Users\Влад\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\VisualizationHandling.dll
+C:\Users\Влад\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\Graph.pdb
+C:\Users\Влад\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\DataVisualization.pdb
+C:\Users\Влад\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\VisualizationHandling.pdb
+C:\Users\Влад\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\Graph\TestGraphForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Влад\Dropbox\BS_Work\Graph\TestGraphForm\obj\Debug\TestGraphForm.dll
+C:\Users\Влад\Dropbox\BS_Work\Graph\TestGraphForm\obj\Debug\TestGraphForm.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\DataVisualization.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\DataVisualization.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\Graph\TestGraphForm\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\TestGraphForm.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\TestGraphForm.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataVisualization.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\Graph.exe
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\VisualizationHandling.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataVisualization.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\Graph.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\VisualizationHandling.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\TestGraphForm.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\TestGraphForm.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\TestGraphForm.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\TestGraphForm.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataVisualization.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\Graph.exe
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\VisualizationHandling.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataVisualization.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\Graph.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\VisualizationHandling.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\TestGraphForm.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\TestGraphForm.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\TestGraphForm.pdb
+E:\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\TestGraphForm.dll
+E:\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\TestGraphForm.pdb
+E:\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataVisualization.dll
+E:\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\Graph.exe
+E:\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\VisualizationHandling.dll
+E:\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataObject.dll
+E:\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataVisualization.pdb
+E:\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\Graph.pdb
+E:\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\VisualizationHandling.pdb
+E:\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataObject.pdb
+E:\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\TestGraphForm.csprojResolveAssemblyReference.cache
+E:\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\TestGraphForm.dll
+E:\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\TestGraphForm.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\TestGraphForm.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\TestGraphForm.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataVisualization.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\Graph.exe
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\VisualizationHandling.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataObject.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataVisualization.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\Graph.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\VisualizationHandling.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataObject.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\TestGraphForm.csprojResolveAssemblyReference.cache
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\TestGraphForm.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\TestGraphForm.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\TestGraphForm.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\TestGraphForm.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataVisualization.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\Graph.exe
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\VisualizationHandling.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataObject.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataVisualization.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\Graph.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\VisualizationHandling.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\bin\Debug\DataObject.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\TestGraphForm.csprojResolveAssemblyReference.cache
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\TestGraphForm.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\Graph\TestGraphForm\obj\Debug\TestGraphForm.pdb

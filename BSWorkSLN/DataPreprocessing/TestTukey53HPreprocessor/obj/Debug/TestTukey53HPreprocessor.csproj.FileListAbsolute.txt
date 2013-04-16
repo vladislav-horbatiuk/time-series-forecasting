@@ -1,0 +1,97 @@
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.Math.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.Math.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Documents\Visual Studio 2010\Projects\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.Math.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.Math.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.xml
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.Math.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.xml
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.pdb
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.dll
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.Math.xml
+C:\Users\Влад\Dropbox\BS_Work\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.Math.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.pdb
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.Math.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.xml
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.dll
+C:\Users\vladyslav.gorbatiuk.SYNAPSE\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.Math.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.xml
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.dll
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.pdb
+C:\Users\Влад\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.csprojResolveAssemblyReference.cache
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.dll
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.pdb
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.dll
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.dll
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.Math.dll
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.pdb
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.pdb
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.xml
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.dll
+E:\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.Math.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.pdb
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.xml
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.dll
+C:\Users\Vladyslav\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\TestTukey53HPreprocessor.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\AForge.Math.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataObject.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\bin\Debug\DataPreprocessing.xml
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.dll
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.pdb
+G:\DropBox\Dropbox\BS_Work\BSWorkSLN\DataPreprocessing\TestTukey53HPreprocessor\obj\Debug\TestTukey53HPreprocessor.csprojResolveAssemblyReference.cache
